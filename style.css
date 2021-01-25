@@ -65,8 +65,10 @@ h2 {
   margin-bottom: 2rem;
 }
 
-.singup span {
+.singup .prices {
   display: flex;
+  margin-bottom: 1rem;
+
 }
 
 .singup .price {
@@ -77,10 +79,6 @@ h2 {
 .singup .per-month {
   border: 1rem solid transparent;
   color: rgba(255, 255, 255, 0.5);
-}
-
-.singup span {
-  margin-bottom: 1rem;
 }
 
 .singup p {
